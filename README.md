@@ -22,7 +22,7 @@ Ensure you have Flutter installed on your machine. For more information on Flutt
 
 1. Clone the repository:
    ```bash
-   git clone https://github.com/[your-username]/flutter_snake_game.git
+   git clone https://github.com/aayushbansal007/Snakelo.git
    ```
 2. Navigate to the project directory:
    ```bash
@@ -40,11 +40,11 @@ Ensure you have Flutter installed on your machine. For more information on Flutt
 
 ## Contributing
 
-Contributions to the project are welcome! Before contributing, please review the `CONTRIBUTING.md` file.
+Contributions to the project are welcome!
 
 ## License
 
-This project is licensed under the MIT License - see the `LICENSE.md` file for details.
+This project is licensed under the MIT License.
 
 ## Acknowledgments
 
